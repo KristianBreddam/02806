@@ -1,3 +1,9 @@
 Features ideas:
 
-- Longest distance to trees
+- Longest distance to trees (loneliest tree)
+
+- trae_historie (hvilke få træer har en træhistorie, og hvor står de placeret henne? Hvorfor har man mon valgt at tilføje denne feature. Tror den kunne lægge op til en god story telling på vores hjemmeside)
+- planteaar (hvad skyldes ændringerne i antal plantede træer over de forskellige år? Kan søge i litteraturen og finde svaret? Kæmpe stigning i plantede træer fra 2018 til 2019 (forbobling) hvad skyldes dette? Metroudbygningen måske?)
+- ejer (Er det rige virksomheder der ejer deres egne træer, eller er det dem gamle kone i kvarteret der har ejet et træ i 70? Hvorfor ejer kommunen ikke bare det hele?)
+- doner (Hvor donere træer? Virksomheder, store personligheder og hvor donere de træerne henne?)
+
